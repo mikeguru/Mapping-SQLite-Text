@@ -1,1 +1,3 @@
 # Text-SQLite
+
+ALL RIGHTS RESERVED
