@@ -1,3 +1,3 @@
-# Text-SQLite-Transformation
+# Text-SQLite-Mapping
 
 ALL RIGHTS RESERVED
